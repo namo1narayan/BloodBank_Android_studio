@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="District" />
+    <string-array name="Blood_Group" />
+    <string-array name="gender" />
+    <string-array name="district_list" />
+</resources>
